@@ -1,0 +1,40 @@
+.app {
+  width: 100%;
+  background-color: #ffffff9b;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+}
+
+.nav-heading {
+  color: #333333c0;
+  margin: 0;
+}
+
+.form-select {
+  height: 3rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.form-select select {
+  height: 2rem;
+  padding: 0;
+  margin: 0;
+}
+
+.form-select label {
+  margin: 0;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
